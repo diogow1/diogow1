@@ -3,7 +3,6 @@
 
 
 Alguns projetos:
-
-<p style="text-decoration: none"><a href="https://discord.com/api/oauth2/authorize?client_id=1184898511335071845&permissions=689342761024&scope=bot)https://discord.com/api/oauth2/authorize?client_id=1184898511335071845&permissions=689342761024&scope=bot">Cat Bot (DISCORD BOT)</a> </p>
+<a href="https://discord.com/api/oauth2/authorize?client_id=1184898511335071845&permissions=689342761024&scope=bot)https://discord.com/api/oauth2/authorize?client_id=1184898511335071845&permissions=689342761024&scope=bot">Cat Bot (DISCORD BOT)</a> 
 
 
